@@ -38,7 +38,6 @@ export const RegistrationForm = () => {
 
                     {/* Full Name */}
                     <div>
-                        <label className="text-white">Full Name</label>
                         <input
                             {...register("fullName", {
                                 required: "Full Name is required"

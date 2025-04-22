@@ -38,7 +38,7 @@ export const RegistrationForm = () => {
                     {/* Full Name */}
                     <div>
                         <input
-                            Ï type="text"
+                            type="text"
                             placeholder="Full Name"
                             className="w-full p-3 rounded bg-gray-700 text-white placeholder-gray-400 "
                         />

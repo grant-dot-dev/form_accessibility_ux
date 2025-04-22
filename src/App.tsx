@@ -1,5 +1,5 @@
 import './App.css'
-import { RegistrationForm } from './snippets/error_handling'
+import { RegistrationForm } from './RegistrationForm'
 
 function App() {
 
