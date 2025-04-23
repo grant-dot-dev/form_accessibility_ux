@@ -27,7 +27,7 @@ export const RegistrationForm = () => {
             <div className="w-full max-w-md p-8 bg-black bg-opacity-75 rounded-lg">
                 <div className="flex flex-row justify-center items-center gap-x-4">
                     <TvIcon className="h-12 w-12 text-red-500" />
-                    <h1 className="text-7xl font-bold text-center text-white mb-4">G-Flix</h1>
+                    <h1 className="text-7xl font-bold text-center text-white mb-4">Getflix</h1>
                 </div>
                 <h2 className="text-3xl font-bold text-white mb-6 text-center">
                     Sign Up
